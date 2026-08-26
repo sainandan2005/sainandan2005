@@ -46,18 +46,18 @@ AI Software Engineer passionate about building intelligent applications, scalabl
 ![SQL](https://img.shields.io/badge/SQL-0A0E14?style=flat-square&logo=postgresql&logoColor=CC0000&labelColor=0A0E14)
 
 ### Frontend
-![React](https://img.shields.io/badge/React-0A0E14?style=flat-square&logo=react&logoColor=FF4444&labelColor=0A0E14)
-![Next.js](https://img.shields.io/badge/Next.js-0A0E14?style=flat-square&logo=next.js&logoColor=FF4444&labelColor=0A0E14)
-![HTML5](https://img.shields.io/badge/HTML5-0A0E14?style=flat-square&logo=html5&logoColor=FF4444&labelColor=0A0E14)
-![CSS3](https://img.shields.io/badge/CSS3-0A0E14?style=flat-square&logo=css3&logoColor=FF4444&labelColor=0A0E14)
-![Tailwind](https://img.shields.io/badge/Tailwind-0A0E14?style=flat-square&logo=tailwindcss&logoColor=FF4444&labelColor=0A0E14)
+![React](https://img.shields.io/badge/React-0A0E14?style=flat-square&logo=react&logoColor=CC0000&labelColor=0A0E14)
+![Next.js](https://img.shields.io/badge/Next.js-0A0E14?style=flat-square&logo=next.js&logoColor=CC0000&labelColor=0A0E14)
+![HTML5](https://img.shields.io/badge/HTML5-0A0E14?style=flat-square&logo=html5&logoColor=CC0000&labelColor=0A0E14)
+![CSS3](https://img.shields.io/badge/CSS3-0A0E14?style=flat-square&logo=css3&logoColor=CC0000&labelColor=0A0E14)
+![Tailwind](https://img.shields.io/badge/Tailwind-0A0E14?style=flat-square&logo=tailwindcss&logoColor=CC0000&labelColor=0A0E14)
 
 ### Backend & APIs
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0A0E14?style=flat-square&logo=spring&logoColor=FF2A3D&labelColor=0A0E14)
-![FastAPI](https://img.shields.io/badge/FastAPI-0A0E14?style=flat-square&logo=fastapi&logoColor=FF2A3D&labelColor=0A0E14)
-![Node.js](https://img.shields.io/badge/Node.js-0A0E14?style=flat-square&logo=nodedotjs&logoColor=FF2A3D&labelColor=0A0E14)
-![Kafka](https://img.shields.io/badge/Kafka-0A0E14?style=flat-square&logo=apachekafka&logoColor=FF2A3D&labelColor=0A0E14)
-![REST](https://img.shields.io/badge/REST-0A0E14?style=flat-square&logo=postman&logoColor=FF2A3D&labelColor=0A0E14)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0A0E14?style=flat-square&logo=spring&logoColor=CC0000&labelColor=0A0E14)
+![FastAPI](https://img.shields.io/badge/FastAPI-0A0E14?style=flat-square&logo=fastapi&logoColor=CC0000&labelColor=0A0E14)
+![Node.js](https://img.shields.io/badge/Node.js-0A0E14?style=flat-square&logo=nodedotjs&logoColor=CC0000&labelColor=0A0E14)
+![Kafka](https://img.shields.io/badge/Kafka-0A0E14?style=flat-square&logo=apachekafka&logoColor=CC0000&labelColor=0A0E14)
+![REST](https://img.shields.io/badge/REST-0A0E14?style=flat-square&logo=postman&logoColor=CC0000&labelColor=0A0E14)
 
 ### AI / ML
 ![LangChain](https://img.shields.io/badge/LangChain-0A0E14?style=flat-square&logo=chainlink&logoColor=CC0000&labelColor=0A0E14)
@@ -70,13 +70,13 @@ AI Software Engineer passionate about building intelligent applications, scalabl
 ![RAG](https://img.shields.io/badge/RAG-0A0E14?style=flat-square&logo=readthedocs&logoColor=CC0000&labelColor=0A0E14)
 
 ### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-0A0E14?style=flat-square&logo=amazonaws&logoColor=FF4444&labelColor=0A0E14)
-![Azure](https://img.shields.io/badge/Azure-0A0E14?style=flat-square&logo=microsoftazure&logoColor=FF4444&labelColor=0A0E14)
-![GCP](https://img.shields.io/badge/GCP-0A0E14?style=flat-square&logo=googlecloud&logoColor=FF4444&labelColor=0A0E14)
-![Docker](https://img.shields.io/badge/Docker-0A0E14?style=flat-square&logo=docker&logoColor=FF4444&labelColor=0A0E14)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A0E14?style=flat-square&logo=githubactions&logoColor=FF4444&labelColor=0A0E14)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0E14?style=flat-square&logo=postgresql&logoColor=FF4444&labelColor=0A0E14)
-![MongoDB](https://img.shields.io/badge/MongoDB-0A0E14?style=flat-square&logo=mongodb&logoColor=FF4444&labelColor=0A0E14)
+![AWS](https://img.shields.io/badge/AWS-0A0E14?style=flat-square&logo=amazonaws&logoColor=CC0000&labelColor=0A0E14)
+![Azure](https://img.shields.io/badge/Azure-0A0E14?style=flat-square&logo=microsoftazure&logoColor=CC0000&labelColor=0A0E14)
+![GCP](https://img.shields.io/badge/GCP-0A0E14?style=flat-square&logo=googlecloud&logoColor=CC0000&labelColor=0A0E14)
+![Docker](https://img.shields.io/badge/Docker-0A0E14?style=flat-square&logo=docker&logoColor=CC0000&labelColor=0A0E14)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A0E14?style=flat-square&logo=githubactions&logoColor=CC0000&labelColor=0A0E14)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0E14?style=flat-square&logo=postgresql&logoColor=CC0000&labelColor=0A0E14)
+![MongoDB](https://img.shields.io/badge/MongoDB-0A0E14?style=flat-square&logo=mongodb&logoColor=CC0000&labelColor=0A0E14)
 
 
 ---
@@ -84,7 +84,7 @@ AI Software Engineer passionate about building intelligent applications, scalabl
 ## 💼 EXPERIENCE
 
 ### JPMorgan Chase & Co.
-**Summer Intern, Software Engineering** — `May 2026 - Jul 2026`
+**Summer Intern, Software Engineering** · `May 2026 - Jul 2026`
 
 - Designed backend microservices in **Java** and **Spring Boot** with **Apache Kafka** event-driven architecture for real-time data streaming
 - Built a **RAG** pipeline using **FastAPI**, **PostgreSQL/pgvector**, and **Amazon Bedrock** with vector search and semantic embeddings
@@ -95,7 +95,7 @@ AI Software Engineer passionate about building intelligent applications, scalabl
 <br>
 
 ### Igebra.ai
-**AI Intern** — `Feb 2025 - Jul 2025`
+**AI Intern** · `Feb 2025 - Jul 2025`
 
 - Built AI-powered full-stack educational tools using **React.js**, **Next.js**, and **Vercel AI SDK**
 - Integrated **OpenAI**, **Gemini**, image generation, voice, and caption APIs into a unified platform
@@ -106,7 +106,7 @@ AI Software Engineer passionate about building intelligent applications, scalabl
 <br>
 
 ### AI Quantum Smart Solutions
-**AI/ML Intern** — `Jun 2024 - Jul 2024`
+**AI/ML Intern** · `Jun 2024 - Jul 2024`
 
 - Developed and optimized deep learning models using **TensorFlow** and **PyTorch** for computer vision
 - Achieved **15% improvement** in classification accuracy through model optimization techniques
@@ -118,56 +118,121 @@ AI Software Engineer passionate about building intelligent applications, scalabl
 
 ## 🚀 PROJECTS
 
-### EduSphere
-`AI-Powered Education`
+### Enterprise AI Platform
+`Production RAG · Agent Orchestration`
 
-An AI-powered learning platform that combines Gemini AI with YouTube recommendations to generate educational content personalized by topic, skill level, and learning goals.
+A production-style AI platform: enterprise RAG with hybrid search and cross-encoder
+reranking, validated text-to-SQL, GraphRAG over Neo4j, and a LangGraph agent that
+routes each query to the minimal tool set. Includes a 42-query evaluation gold set,
+claim-level faithfulness scoring, and CI regression gating on retrieval metrics,
+plus 143 tests and a full Docker Compose stack with Prometheus/Grafana observability.
 
-![React](https://img.shields.io/badge/React-0A0E14?style=flat-square&logo=react&logoColor=CC0000&labelColor=0A0E14)
-![Node.js](https://img.shields.io/badge/Node.js-0A0E14?style=flat-square&logo=nodedotjs&logoColor=CC0000&labelColor=0A0E14)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0E14?style=flat-square&logo=postgresql&logoColor=CC0000&labelColor=0A0E14)
-![Gemini](https://img.shields.io/badge/Gemini-0A0E14?style=flat-square&logo=googlegemini&logoColor=CC0000&labelColor=0A0E14)
+![Python](https://img.shields.io/badge/Python-0A0E14?style=flat-square&logo=python&logoColor=CC0000)
+![FastAPI](https://img.shields.io/badge/FastAPI-0A0E14?style=flat-square&logo=fastapi&logoColor=CC0000)
+![Next.js](https://img.shields.io/badge/Next.js-0A0E14?style=flat-square&logo=next.js&logoColor=CC0000)
+![LangGraph](https://img.shields.io/badge/LangGraph-0A0E14?style=flat-square&logo=graphql&logoColor=CC0000)
+![Qdrant](https://img.shields.io/badge/Qdrant-0A0E14?style=flat-square&logo=qdrant&logoColor=CC0000)
+![Neo4j](https://img.shields.io/badge/Neo4j-0A0E14?style=flat-square&logo=neo4j&logoColor=CC0000)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0E14?style=flat-square&logo=postgresql&logoColor=CC0000)
+![Docker](https://img.shields.io/badge/Docker-0A0E14?style=flat-square&logo=docker&logoColor=CC0000)
 
-[![GitHub](https://img.shields.io/badge/CODE-0A0E14?style=flat-square&logo=github&logoColor=CC0000&labelColor=0A0E14)](https://github.com/sainandan2005/edusphere)
+[![CODE](https://img.shields.io/badge/CODE-0A0E14?style=flat-square&logo=github&logoColor=CC0000)](https://github.com/sainandan2005/enterprise-ai-platform)
+
+<br>
+
+### FireChat
+`Real-Time Systems`
+
+A WhatsApp-style messenger where everything Socket.IO hides is built by hand:
+a custom WebSocket protocol with heartbeats and ack-correlated requests,
+WebRTC call signaling, Redis multi-node fan-out, and a 108-assertion test suite
+that treats the server as hostile.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0A0E14?style=flat-square&logo=typescript&logoColor=CC0000)
+![Next.js](https://img.shields.io/badge/Next.js-0A0E14?style=flat-square&logo=next.js&logoColor=CC0000)
+![WebSocket](https://img.shields.io/badge/WebSocket-0A0E14?style=flat-square&logo=socketdotio&logoColor=CC0000)
+![Redis](https://img.shields.io/badge/Redis-0A0E14?style=flat-square&logo=redis&logoColor=CC0000)
+![WebRTC](https://img.shields.io/badge/WebRTC-0A0E14?style=flat-square&logo=webrtc&logoColor=CC0000)
+
+[![CODE](https://img.shields.io/badge/CODE-0A0E14?style=flat-square&logo=github&logoColor=CC0000)](https://github.com/sainandan2005/FireChat)
+
+<br>
+
+### FraudStream
+`Streaming Data · ML`
+
+Real-time fraud detection on streaming payments: a synthetic bank emits ~20
+transactions/sec across 5,000 cards. Kafka carries the event backbone, Redis acts
+as an online feature store, and a rules engine plus self-training ML model scores
+every transaction in milliseconds, surfaced on a live tracing console with
+Grafana and Prometheus dashboards.
+
+![Python](https://img.shields.io/badge/Python-0A0E14?style=flat-square&logo=python&logoColor=CC0000)
+![Kafka](https://img.shields.io/badge/Kafka-0A0E14?style=flat-square&logo=apachekafka&logoColor=CC0000)
+![Redis](https://img.shields.io/badge/Redis-0A0E14?style=flat-square&logo=redis&logoColor=CC0000)
+![FastAPI](https://img.shields.io/badge/FastAPI-0A0E14?style=flat-square&logo=fastapi&logoColor=CC0000)
+![Grafana](https://img.shields.io/badge/Grafana-0A0E14?style=flat-square&logo=grafana&logoColor=CC0000)
+
+[![CODE](https://img.shields.io/badge/CODE-0A0E14?style=flat-square&logo=github&logoColor=CC0000)](https://github.com/sainandan2005/fraudstream)
+
+<br>
+
+### Gambit
+`Browser Engineering`
+
+Play Stockfish 18 in the browser: the engine runs as WASM inside a Web Worker.
+No server, no account, no tracking. 800 to 2850 Elo scaling via UCI limit-strength,
+PGN import/export, time controls, eval bar, and hint arrows.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0A0E14?style=flat-square&logo=typescript&logoColor=CC0000)
+![React](https://img.shields.io/badge/React-0A0E14?style=flat-square&logo=react&logoColor=CC0000)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-0A0E14?style=flat-square&logo=webassembly&logoColor=CC0000)
+![Tailwind](https://img.shields.io/badge/Tailwind-0A0E14?style=flat-square&logo=tailwindcss&logoColor=CC0000)
+
+[![CODE](https://img.shields.io/badge/CODE-0A0E14?style=flat-square&logo=github&logoColor=CC0000)](https://github.com/sainandan2005/gambit)
+[![LIVE](https://img.shields.io/badge/LIVE-CC0000?style=flat-square&logo=vercel&logoColor=white)](https://gambit-fw.vercel.app)
+
+<br>
+
+### Readora
+`Data Pipeline · Product`
+
+A quiet home for public-domain books: turns messy century-old Project Gutenberg
+HTML into clean chapters and serves them in a distraction-free reader that
+remembers your place down to the scroll position, with bookmarks and streaks.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0A0E14?style=flat-square&logo=typescript&logoColor=CC0000)
+![Next.js](https://img.shields.io/badge/Next.js-0A0E14?style=flat-square&logo=next.js&logoColor=CC0000)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0E14?style=flat-square&logo=postgresql&logoColor=CC0000)
+
+[![CODE](https://img.shields.io/badge/CODE-0A0E14?style=flat-square&logo=github&logoColor=CC0000)](https://github.com/sainandan2005/Readora)
+[![LIVE](https://img.shields.io/badge/LIVE-CC0000?style=flat-square&logo=vercel&logoColor=white)](https://readora-ten.vercel.app)
 
 <br>
 
 ### Schema Design Assistant
 `AI + Full Stack`
 
-An AI-powered tool that generates optimized MongoDB schemas from natural language descriptions using Groq AI (llama-3.3-70b). Features interactive schema diagrams with React Flow.
+An AI-powered tool that generates optimized MongoDB schemas from natural language
+descriptions using Groq (llama 3.3 70B), with interactive schema diagrams built
+on React Flow.
 
-![React](https://img.shields.io/badge/React-0A0E14?style=flat-square&logo=react&logoColor=FF4444&labelColor=0A0E14)
-![FastAPI](https://img.shields.io/badge/FastAPI-0A0E14?style=flat-square&logo=fastapi&logoColor=FF4444&labelColor=0A0E14)
-![MongoDB](https://img.shields.io/badge/MongoDB-0A0E14?style=flat-square&logo=mongodb&logoColor=FF4444&labelColor=0A0E14)
-![Docker](https://img.shields.io/badge/Docker-0A0E14?style=flat-square&logo=docker&logoColor=FF4444&labelColor=0A0E14)
+![React](https://img.shields.io/badge/React-0A0E14?style=flat-square&logo=react&logoColor=CC0000)
+![FastAPI](https://img.shields.io/badge/FastAPI-0A0E14?style=flat-square&logo=fastapi&logoColor=CC0000)
+![MongoDB](https://img.shields.io/badge/MongoDB-0A0E14?style=flat-square&logo=mongodb&logoColor=CC0000)
+![Docker](https://img.shields.io/badge/Docker-0A0E14?style=flat-square&logo=docker&logoColor=CC0000)
 
-[![GitHub](https://img.shields.io/badge/CODE-0A0E14?style=flat-square&logo=github&logoColor=FF4444&labelColor=0A0E14)](https://github.com/sainandan2005/Schema-Design-Assistant)
-
-<br>
-
-### BookStore API
-`Backend Engineering`
-
-A Spring Boot REST API demonstrating clean architecture, JPA/Hibernate ORM, PostgreSQL integration, comprehensive testing with JUnit/Mockito, and Docker containerization.
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0A0E14?style=flat-square&logo=spring&logoColor=FF2A3D&labelColor=0A0E14)
-![Java](https://img.shields.io/badge/Java-0A0E14?style=flat-square&logo=openjdk&logoColor=FF2A3D&labelColor=0A0E14)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0E14?style=flat-square&logo=postgresql&logoColor=FF2A3D&labelColor=0A0E14)
-![Docker](https://img.shields.io/badge/Docker-0A0E14?style=flat-square&logo=docker&logoColor=FF2A3D&labelColor=0A0E14)
-
-[![GitHub](https://img.shields.io/badge/CODE-0A0E14?style=flat-square&logo=github&logoColor=FF2A3D&labelColor=0A0E14)](https://github.com/sainandan2005/BookStore-SpringBoot)
+[![CODE](https://img.shields.io/badge/CODE-0A0E14?style=flat-square&logo=github&logoColor=CC0000)](https://github.com/sainandan2005/Schema-Design-Assistant)
+[![LIVE](https://img.shields.io/badge/LIVE-CC0000?style=flat-square&logo=vercel&logoColor=white)](https://schema-design-assistant.vercel.app)
 
 <br>
-
----
 
 ## 🏅 CERTIFICATIONS
 
 | Certification | Issuer |
 |---|---|
-| AWS Solutions Architect — Associate | Amazon Web Services |
-| AWS Developer — Associate | Amazon Web Services |
+| AWS Solutions Architect Associate | Amazon Web Services |
+| AWS Developer Associate | Amazon Web Services |
 | AWS Cloud Practitioner | Amazon Web Services |
 | Azure AI Fundamentals (AI-900) | Microsoft |
 | MongoDB Associate Developer | MongoDB |
@@ -192,9 +257,9 @@ A Spring Boot REST API demonstrating clean architecture, JPA/Hibernate ORM, Post
 
 ## 👥 LEADERSHIP
 
-- **AI & Cloud Computing Lead** — Google Developer Groups on Campus, KLHB
-- **PR and Outreach Head** — GeeksforGeeks Student Chapter, KLHB
-- **Former Member** — Association for Computing Machinery (ACM)
+- **AI & Cloud Computing Lead** @ Google Developer Groups on Campus, KLHB
+- **Former PR and Outreach Head**, GeeksforGeeks Student Chapter, KLHB
+- **Former Member**, Association for Computing Machinery (ACM)
 
 <br>
 
